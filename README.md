@@ -75,12 +75,8 @@ Follow the steps below to set up and run the application:
 git clone https://github.com/vigyat13/AI-Data-Visualization-Agent.git
 cd AI-Data-Visualization-Agent
 2️⃣ Install the Dependencies
-bash
-Copy code
 pip install -r requirements.txt
 3️⃣ Run the Streamlit App
-bash
-Copy code
 streamlit run ai_data_visualisation_agent.py
 Happy coding! 🚀✨
 
