@@ -1,0 +1,16 @@
+# LLM
+groq>=0.9.0
+
+# Secure sandbox execution
+e2b==1.0.5
+e2b-code-interpreter==1.0.3
+
+# Data & visualization
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# UI
+streamlit>=1.25.0
+
+# Images
+Pillow>=10.0.0
